@@ -75,6 +75,7 @@ Create a user and database in your mysql/mariadb server (not root) and then foll
 
 ## Versions
 
++ **18.03.18:** Update nginx config to resolve api not working.
 + **09.01.18:** Rebase to alpine 3.7.
 + **30.05.17:** Rebase to alpine 3.6.
 + **03.05.17:** Update to php 7.1x.
