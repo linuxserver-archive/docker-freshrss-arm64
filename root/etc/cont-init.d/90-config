@@ -1,0 +1,22 @@
+#!/usr/bin/with-contenv bash
+
+echo '
+******************************************************
+******************************************************
+*                                                    *
+*                                                    *
+*          This image has been deprecated            *
+*                                                    *
+*           Use the multi-arch images at             *
+*                                                    *
+*               linuxserver/freshrss                 *
+*                                                    *
+*    https://hub.docker.com/r/linuxserver/freshrss   *
+*                                                    *
+*   https://github.com/linuxserver/docker-freshrss   *
+*                                                    *
+*                                                    *
+*                                                    *
+******************************************************
+******************************************************'
+
